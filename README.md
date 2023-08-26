@@ -1,4 +1,4 @@
-#EX09 - Contagion Simulation
+# EX09 - Contagion Simulation
 
 ### Overview
 This exercise is inspired by the Washington Post’s article that simulated infectiousness with 2D cells in a graphical visualization. Simulations such as this are great sandboxes to practice and learn object-oriented programming concepts such as classes, objects, constructors, and methods.
